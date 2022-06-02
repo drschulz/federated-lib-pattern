@@ -4,7 +4,7 @@ Building off of the federated module examples of Jack Herrington.
 
 ## Motivation
 
-I was getting sad that Typescript support for federated modules is a little clunky and a bit of a pain. Also wanted to see if there were more standards that could be developed around resilient federated modules.
+I was getting sad that Typescript support for federated modules is a little clunky and a bit of a pain. I also wanted to see if there were more standards that could be developed around resilient federated modules.
 
 ## What is the Federated Library Pattern?
 
