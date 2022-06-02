@@ -59,7 +59,7 @@ npm install
 npm link federated_lib
 ```
 
-Add back `federated_lib` to the package.json (or use yarn workspaces)
+Add back `federated_lib` to the package.json (or use yarn workspaces or turborepo)
 
 run:
 
