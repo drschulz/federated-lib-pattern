@@ -69,4 +69,4 @@ npm start
 
 Voila! Typescript friendly federated modules, resilient, and no additional federated set up needed on the host!
 
-To prove it's working, see the console where it's logged which component is being used (remote or fallback).
+To prove it's working, see the console, where it logs which component is being used (remote or fallback).
